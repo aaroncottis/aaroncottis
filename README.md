@@ -1,2 +1,1 @@
 - 👋 Hello, I’m @aaroncottis
-- 🖥 I’m a software and systems engineer currently working for BAE Systems
